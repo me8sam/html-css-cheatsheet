@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: darkmagenta;
+    text-align: center;
+}
+
+table {
+    border: 2px solid darkmagenta;
+    width: 50%;
+    margin: auto auto;
+}
+
+td { 
+    border-top: 1px solid darkorchid;
+}
+
+th { 
+    background-color: violet;
+}
+
+body {
+  background-color: gainsboro;
+  font-family: arial;
+}
+
+.code { 
+  font-family: monospace;
+  background-color: seashell;
+}
